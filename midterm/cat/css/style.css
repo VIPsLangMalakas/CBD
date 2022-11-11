@@ -1,0 +1,18 @@
+.col-centered{
+      float: none;
+      margin: 0 auto;
+  }
+
+  /* Some custom styles to beautify this example */
+
+  }
+  .demo-content{
+      padding: 25px;
+      font-size: 18px;
+
+  }
+
+  .btn-warning {
+    color: #212529;
+    background-color:;
+    border-color: #ffc107;
